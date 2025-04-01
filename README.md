@@ -40,23 +40,17 @@ python app.py
 ```
 Open your browser and go to http://127.0.0.1:5000/ to start converting currencies! 🌟
 
-📝 Usage
-🏦 Select the source currency from the dropdown list.
+## 📝 Usage
+- 🏦 Select the source currency from the dropdown list.  
+- 💵 Select the target currency from the dropdown list.  
+- 🔢 Enter the amount to be converted.  
+- ✅ Click on the "Convert" button to see the converted amount.  
 
-💵 Select the target currency from the dropdown list.
+## 📌 Example
+- **Source Currency:** 🇺🇸 USD  
+- **Target Currency:** 🇪🇺 EUR  
+- **Amount to Convert:** 100  
+- **Converted Amount:** 💶 85 EUR (depends on real-time exchange rate).  
 
-🔢 Enter the amount to be converted.
-
-✅ Click on the "Convert" button to see the converted amount.
-
-📌 Example
-Source Currency: 🇺🇸 USD
-
-Target Currency: 🇪🇺 EUR
-
-Amount to Convert: 100
-
-Converted Amount: 💶 85 EUR (depends on real-time exchange rate).
-
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
